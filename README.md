@@ -1,10 +1,8 @@
 # <h1 align="center">formacao-java-OO</h1>
 
 <p align="center">
-     <img alt="imagem ilustrativa da formação" src="" width="500">
+     <img alt="imagem ilustrativa da formação" src="https://user-images.githubusercontent.com/112354693/216942197-44c3d315-4f3b-45b9-a2ff-f4be1bc75da9.jpg" width="500">
 </p>
-
-
 
 ## Cursos presentes na Formação java e Orientaçao a Objetos:
 
